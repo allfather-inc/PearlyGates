@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/indian-innovation-company.github.io/static/css/main.9bafa4ef.chunk.css",
+    "main.js": "/indian-innovation-company.github.io/static/js/main.2279a2bc.chunk.js",
+    "main.js.map": "/indian-innovation-company.github.io/static/js/main.2279a2bc.chunk.js.map",
+    "runtime-main.js": "/indian-innovation-company.github.io/static/js/runtime-main.ab9458a6.js",
+    "runtime-main.js.map": "/indian-innovation-company.github.io/static/js/runtime-main.ab9458a6.js.map",
+    "static/js/2.5bd2793a.chunk.js": "/indian-innovation-company.github.io/static/js/2.5bd2793a.chunk.js",
+    "static/js/2.5bd2793a.chunk.js.map": "/indian-innovation-company.github.io/static/js/2.5bd2793a.chunk.js.map",
+    "index.html": "/indian-innovation-company.github.io/index.html",
+    "static/css/main.9bafa4ef.chunk.css.map": "/indian-innovation-company.github.io/static/css/main.9bafa4ef.chunk.css.map",
+    "static/js/2.5bd2793a.chunk.js.LICENSE.txt": "/indian-innovation-company.github.io/static/js/2.5bd2793a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab9458a6.js",
+    "static/js/2.5bd2793a.chunk.js",
+    "static/css/main.9bafa4ef.chunk.css",
+    "static/js/main.2279a2bc.chunk.js"
+  ]
+}
