@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/PearlyGates/static/css/main.9bafa4ef.chunk.css",
-    "main.js": "/PearlyGates/static/js/main.2279a2bc.chunk.js",
-    "main.js.map": "/PearlyGates/static/js/main.2279a2bc.chunk.js.map",
-    "runtime-main.js": "/PearlyGates/static/js/runtime-main.d2058c21.js",
-    "runtime-main.js.map": "/PearlyGates/static/js/runtime-main.d2058c21.js.map",
-    "static/js/2.5bd2793a.chunk.js": "/PearlyGates/static/js/2.5bd2793a.chunk.js",
-    "static/js/2.5bd2793a.chunk.js.map": "/PearlyGates/static/js/2.5bd2793a.chunk.js.map",
-    "index.html": "/PearlyGates/index.html",
-    "static/css/main.9bafa4ef.chunk.css.map": "/PearlyGates/static/css/main.9bafa4ef.chunk.css.map",
-    "static/js/2.5bd2793a.chunk.js.LICENSE.txt": "/PearlyGates/static/js/2.5bd2793a.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.9bafa4ef.chunk.css",
+    "main.js": "/static/js/main.2279a2bc.chunk.js",
+    "main.js.map": "/static/js/main.2279a2bc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eff1c687.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eff1c687.js.map",
+    "static/js/2.5bd2793a.chunk.js": "/static/js/2.5bd2793a.chunk.js",
+    "static/js/2.5bd2793a.chunk.js.map": "/static/js/2.5bd2793a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9bafa4ef.chunk.css.map": "/static/css/main.9bafa4ef.chunk.css.map",
+    "static/js/2.5bd2793a.chunk.js.LICENSE.txt": "/static/js/2.5bd2793a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2058c21.js",
+    "static/js/runtime-main.eff1c687.js",
     "static/js/2.5bd2793a.chunk.js",
     "static/css/main.9bafa4ef.chunk.css",
     "static/js/main.2279a2bc.chunk.js"
