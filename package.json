@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://indian-innovation-company.github.io/",
+  "homepage": "https://indian-innovation-company.github.io/PearlyGates/",
   "dependencies": {
     "@juggle/resize-observer": "^3.2.0",
     "@react-spring/three": "^9.0.0-rc.3",
@@ -22,7 +22,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "postinstall": "node postinstall.js ",
-    "predeploy": "react-scripts build",
+    "predeploy": "react-scriptsy build",
     "deploy": "gh-pages -d build"
   },
   "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"],
