@@ -13,7 +13,7 @@ function App () {
     <Router basename='/'>
       <div className='content'>
         <h2 className='content__title'>
-          Indian <span className='content__title_inverted'>Innovation</span> Company
+          Allfather.
         </h2>
       </div>
       <div id='animation'>
